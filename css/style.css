@@ -66,6 +66,17 @@ html{
 	scroll-behavior: smooth;
 }
 
+.fixed-nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 40px;
+  background-color: #00a087;
+  background: transparent;
+}
+
 section {
 	display: flex;
 	flex-direction: column;
