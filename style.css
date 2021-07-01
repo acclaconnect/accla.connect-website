@@ -465,7 +465,7 @@ img{
 	}
 	.heading h2
 	{
-        font-size: 24px;
+        font-size: 30px;
 	}
 	.contentBx h3
 	{
@@ -490,7 +490,7 @@ img{
     }
     img 
     {
-    max-width: 200px;
+    max-width: 300px;
     margin-top: 0px;
     margin-left: -50px;
     }
