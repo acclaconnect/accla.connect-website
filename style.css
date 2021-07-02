@@ -372,7 +372,7 @@ img{
  padding: 14px 28px; /* Add some padding */
  cursor: pointer; /* Add a pointer cursor on mouse-over */
 }
-.Message {background-color: #04AA6D;} /* Green */
+.Message {background-color: #000000;} /* Green */
 .Message:hover {background-color: #46a049;}
 
 .privacy-policy
